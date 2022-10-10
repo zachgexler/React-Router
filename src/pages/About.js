@@ -5,8 +5,7 @@ const About = () => {
     <div className="about">
       <h1>About Page</h1>
       <p className="aboutInfo">
-        StockedUp is a web app designed to display simple stock information
-        about the stocks you want to follow.
+       The Ticker hosts large company stock informtion.
       </p>
     </div>
   );
